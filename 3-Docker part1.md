@@ -19,7 +19,6 @@
 
   ![Задание 2](https://github.com/user-attachments/assets/0460d81e-d7ba-461c-bb13-eda626a3da19)
 
-
 ---
 
 ### Задание 3
@@ -28,6 +27,8 @@
 
    Скриншот:
 
+  ![Задание 3](https://github.com/user-attachments/assets/03bd2f4a-e460-4604-8098-0492be71cafa)
+
 ---
 
 ### Задание 4 
@@ -35,7 +36,6 @@
 * Удалите образ hello-world.
 
    Скриншот:
-
 ---
 
 ## Дополнительные задания* (со звёздочкой)
