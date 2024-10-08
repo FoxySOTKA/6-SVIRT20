@@ -55,7 +55,22 @@ spec:
  * версия образа redis должна быть зафиксирована на 6.0.13.
 
 2. Запустите Deployment в своём кластере и добейтесь его стабильной работы.
-3. В качестве решения пришлите получившийся файл.
+
+#### Получившийся файл:
+
+```
+apiVersion: v1 
+kind: Service 
+metadata: 
+  name: redis 
+spec: 
+  selector: 
+    app: redis 
+  ports: 
+    - protocol: TCP 
+      port: 6379 
+      targetPort: 6379
+``` 
 
 ------
 ### Задание 3
