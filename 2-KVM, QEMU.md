@@ -35,16 +35,19 @@
 1. Установите QEMU в зависимости от системы (в лекции рассматривались примеры).
 
    скрин:
+   
    ![1  Установление QEMU](https://github.com/user-attachments/assets/88b5ab23-e7d0-46a7-a80e-a45b9ce33013)
 
 3. Создайте виртуальную машину.
 
    скрин:
+   
    ![2  Создание виртуальной машины](https://github.com/user-attachments/assets/a8bcf56c-802f-4e68-9ba0-bf85209406a9)
 
 5. Установите виртуальную машину.
 
    скрин:
+   
    ![3  Установление виртуальной машины](https://github.com/user-attachments/assets/16c6f4e9-6daa-478b-86c8-3d502a81efac)
 
 Можете использовать пример [по ссылке](https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86/alpine-standard-3.13.5-x86.iso).
